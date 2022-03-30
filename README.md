@@ -1,5 +1,5 @@
-#test
-soyYo - ejercicio prueba programación Front
+# test
+# soyYo - ejercicio prueba programación Front
 
 1. Clonar el proyecto o descargar el ZIP
 2. se ejecuta el comando npm install
