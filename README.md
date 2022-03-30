@@ -1,3 +1,12 @@
+#test
+soyYo - ejercicio prueba programación Front
+
+1. Clonar el proyecto o descargar el ZIP
+2. se ejecuta el comando npm install
+3. se ejecuta el comando ng serve -o
+4. el proyecto de prueba corre por http://localhost:4200/ 
+
+
 # Test
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.0.
